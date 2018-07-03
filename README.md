@@ -1,9 +1,8 @@
-# A2
-Doodle:
+#Doodle:
 
 	Doodle is a board that user can draw 2-d graphs on with mutiple colors and different levels of thickness. A slider in the bottom of the application keeps track of every proccess that user draws on the board. User can also replay the drawing process by click on the forward play button and backward play button.
 
-User Interface:
+##User Interface:
 	1.Color buttons: user can click on the existed color button to change the current color same as the color button
 	2.Current Color and color picker: the large color button refects the current color the user is using. 
 					  By clicking on it, there will prompt a color chooser to have way more colors to pick.
@@ -14,7 +13,7 @@ User Interface:
 	7.Start button: go to the starting point
 	8.End button: go to the ending point
 
-Enhancement:
+##Enhancement:
 	1.When the canvas resizes to fit the available space, it maintains its aspect ratio (i.e. it can only be resized equally in both directions). The canvas is not cut off during resizing (5%).
 	2.Accurate representation of time. It should take an amount of time to play back a stroke that is proportional to how long it took to draw, and the tick-marks on the playback bar should be spaced appropriately. (10%)
 	3.Ability to play animations both forward and backward (5 marks).
