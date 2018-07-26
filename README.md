@@ -21,4 +21,4 @@
 	5.Undockable toolbars to create floating palettes (10 marks).
 	
 ## Screen shots
-![screenshot] (DoodleBoard.png)
+![screenshot](DoodleBoard.png)
