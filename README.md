@@ -19,3 +19,6 @@
 	3.Ability to play animations both forward and backward (5 marks).
 	4.Dynamic use of widgets; if display gets too small, perhaps pull a subset of widgets out of application view to support more compressed presentation of options, e.g. replace stroke width with combo box, color palette with subset of buttons (5 or more depending on extent).
 	5.Undockable toolbars to create floating palettes (10 marks).
+	
+## Screen shots
+[!screenshot] [DoodleBoard.png]
